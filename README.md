@@ -1,6 +1,4 @@
-https://vivekpnxtwatch.ccbp.tech/
-
-
+https://mnxtwatch.ccbp.tech/
 
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
